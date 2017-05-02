@@ -1,0 +1,18 @@
+C:\pastrana\Fundamentos Informatica Clinica\practicas\2015_2016\practica05\practica05\obj\Debug\practica05.LOGIN.resources
+C:\pastrana\Fundamentos Informatica Clinica\practicas\2015_2016\practica05\practica05\obj\Debug\practica05.Properties.Resources.resources
+C:\pastrana\Fundamentos Informatica Clinica\practicas\2015_2016\practica05\practica05\obj\Debug\practica05.csproj.GenerateResource.Cache
+C:\pastrana\Fundamentos Informatica Clinica\practicas\2015_2016\practica05\practica05\bin\Debug\practica05.exe
+C:\pastrana\Fundamentos Informatica Clinica\practicas\2015_2016\practica05\practica05\bin\Debug\practica05.pdb
+C:\pastrana\Fundamentos Informatica Clinica\practicas\2015_2016\practica05\practica05\obj\Debug\practica05.exe
+C:\pastrana\Fundamentos Informatica Clinica\practicas\2015_2016\practica05\practica05\obj\Debug\practica05.pdb
+C:\pastrana\Fundamentos Informatica Clinica\practicas\2015_2016\practica05\practica05\obj\Debug\practica05.csprojResolveAssemblyReference.cache
+C:\pastrana\Gestion de Informacion\curso2015_2016\practicas\practica05\practica05\obj\Debug\practica05.exe
+C:\pastrana\Gestion de Informacion\curso2015_2016\practicas\practica05\practica05\obj\Debug\practica05.pdb
+C:\Users\alumno\Downloads\alumnos_practica05\practica05\obj\Debug\practica05.exe
+C:\Users\alumno\Downloads\alumnos_practica05\practica05\obj\Debug\practica05.pdb
+C:\Users\alumno\Downloads\alumnos_practica05\practica05\bin\Debug\practica05.exe
+C:\Users\alumno\Downloads\alumnos_practica05\practica05\bin\Debug\practica05.pdb
+C:\Users\alumno\Downloads\alumnos_practica05\practica05\obj\Debug\practica05.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\alumnos_practica05\practica05\obj\Debug\practica05.LOGIN.resources
+C:\Users\alumno\Downloads\alumnos_practica05\practica05\obj\Debug\practica05.Properties.Resources.resources
+C:\Users\alumno\Downloads\alumnos_practica05\practica05\obj\Debug\practica05.csproj.GenerateResource.Cache
